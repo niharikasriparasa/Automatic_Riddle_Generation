@@ -41,3 +41,7 @@ Niharika Sri Parasa, Chaitali Diwan and Srinath Srinivasa. “Automatic Riddle G
 
 Presentation can be found here :
     https://docs.google.com/presentation/d/1OakXXpdy9MtrebZf9hdY3zqdbtbpHTRc3DX7Kk4te-Y/edit?usp=sharing
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
