@@ -34,7 +34,8 @@ Coming soon..
 
 
 1.Niharika Sri Parasa, Chaitali Diwan and Srinath Srinivasa. “Automatic Riddle Generation for Learning Resources”. Proceedings of International Conference on Artificial Intelligence in Education (AIED), Durham University, UK, 2022.[proceedings](https://link.springer.com/chapter/10.1007/978-3-031-11647-6_66)
-2. Niharika Sri Parasa, Chaitali Diwan, Srinath Srinivasa and Prasad Ram. 2024. An Automated Approach to Generating Conceptual Riddles. The 28th Pacific Asia Conference on Knowledge Discovery and Data Mining (PAKDD), Taipei, Taiwan, May 7-10,2024. [arXiv](https://arxiv.org/pdf/2310.18290.pdf)
+
+2.Niharika Sri Parasa, Chaitali Diwan, Srinath Srinivasa and Prasad Ram. 2024. An Automated Approach to Generating Conceptual Riddles. The 28th Pacific Asia Conference on Knowledge Discovery and Data Mining (PAKDD), Taipei, Taiwan, May 7-10,2024. [arXiv](https://arxiv.org/pdf/2310.18290.pdf)
 
 
 Presentation can be found here : [ppt] (https://docs.google.com/presentation/d/1OakXXpdy9MtrebZf9hdY3zqdbtbpHTRc3DX7Kk4te-Y/edit?usp=sharing)
