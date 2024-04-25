@@ -24,27 +24,24 @@ Coming soon..
 
 ## Limitations
 
-Coming soon..
-## Authors
-
-- Niharika Sri Parasa, Chaitali Diwan, Srinath Srinivasa
-
-
+  Coming soon..
+  
 ## Publications
 
 
-1.Niharika Sri Parasa, Chaitali Diwan and Srinath Srinivasa. “Automatic Riddle Generation for Learning Resources”. Proceedings of International Conference on Artificial Intelligence in Education (AIED), Durham University, UK, 2022.[proceedings](https://link.springer.com/chapter/10.1007/978-3-031-11647-6_66)
+📃 Niharika Sri Parasa, Chaitali Diwan and Srinath Srinivasa. “Automatic Riddle Generation for Learning Resources”. Proceedings of International Conference on Artificial Intelligence in Education (AIED), Durham University, UK, 2022.[[Proceedings]](https://link.springer.com/chapter/10.1007/978-3-031-11647-6_66)
 
-2.Niharika Sri Parasa, Chaitali Diwan, Srinath Srinivasa and Prasad Ram. 2024. An Automated Approach to Generating Conceptual Riddles. The 28th Pacific Asia Conference on Knowledge Discovery and Data Mining (PAKDD), Taipei, Taiwan, May 7-10,2024. [arXiv](https://arxiv.org/pdf/2310.18290.pdf)
+📃 Niharika Sri Parasa, Chaitali Diwan, Srinath Srinivasa and Prasad Ram. 2024. An Automated Approach to Generating Conceptual Riddles. The 28th Pacific Asia Conference on Knowledge Discovery and Data Mining (PAKDD), Taipei, Taiwan, May 7-10,2024. [[arXiv]](https://arxiv.org/pdf/2310.18290.pdf)
 
 
+![image](https://github.com/niharikasriparasa/RiDDle-Quest/assets/60874029/f9ec3868-b2fe-43be-bce8-f0dc7fd6ca85)
 Presentation can be found here : [ppt] (https://docs.google.com/presentation/d/1OakXXpdy9MtrebZf9hdY3zqdbtbpHTRc3DX7Kk4te-Y/edit?usp=sharing)
 
 ## Authors
 
-- niharikasri.parasa@iiitb.ac.in
-- chaitali.diwan@gmail.com
-- sri@iiitb.ac.in
+- Niharika Sri Parasa (📧 : niharikasri.parasa@iiitb.ac.in)
+- Chaitali Diwan (📧 : chaitali.diwan@gmail.com)
+- Srinath Srinivasa (📧 : sri@iiitb.ac.in)
 
 ## License
 
